@@ -189,7 +189,7 @@ gpgcheck=0""")
 			docker()		
 		elif x==4:
 			os.system("export TERM=xterm;clear")
-      exit()
+      			exit()
 
 		
 program()
